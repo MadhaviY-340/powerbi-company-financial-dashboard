@@ -2,7 +2,7 @@ Company Financial Analysis Dashboard
 
 🔗 Live Project
 
-https://madhaviv-340.github.io/powerbi-company-financial-dashboard/
+👉 https://madhaviv-340.github.io/powerbi-company-financial-dashboard/
 
 ---
 
