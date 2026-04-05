@@ -50,6 +50,3 @@ Note
 
 Due to embedding restrictions in Power BI Service, the dashboard is displayed as an image.
 
-Author
-
-Madhavi
